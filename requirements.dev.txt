@@ -8,3 +8,4 @@ pycocotools==2.0.6
 sphinx~=4.0.2
 sphinx-rtd-theme
 coverage~=5.3.1
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
